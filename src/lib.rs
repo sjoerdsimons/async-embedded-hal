@@ -1,3 +1,4 @@
+#![no_std]
 //! Asynchronous versions of HAL support.
 //!
 //! This module uses the built-in Rust language support for asynchronous programming.
